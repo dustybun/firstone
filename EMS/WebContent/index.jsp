@@ -9,6 +9,6 @@
 <body>
 
 
-
+<% response.sendRedirect("EmployeeDetails"); %>
 </body>
 </html>

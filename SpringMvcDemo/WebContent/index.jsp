@@ -28,6 +28,8 @@ Qualification:
 	<option value="BE">MSc</option>
 	</select>
 <input type="submit" value="register"/>  
+
+<% response.sendRedirect("myfirst"); %>
 </form>  
 </body>
 </html>

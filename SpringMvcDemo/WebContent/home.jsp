@@ -7,8 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-
-
+Aloha!
+<a href="addpage">Add Product </a>
+<a href="showall">Show Product </a>
+<a href="delete">Delete Product </a>
+<a href="">Search Product </a>
+<a href="">Update Product </a>
 </body>
 </html>
